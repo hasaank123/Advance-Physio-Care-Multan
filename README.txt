@@ -2,7 +2,7 @@ ADVANCE PHYSIO CARE MULTAN — PREMIUM WEBSITE
 
 Included:
 - Responsive premium clinic website
-- All 6 staff profiles in the exact photo order supplied
+- All 6 staff profiles in the exact photo order supplied and faces remain centre of frame
 - Services, conditions, membership, contact and appointment sections
 - Call, WhatsApp and Google Maps buttons
 
